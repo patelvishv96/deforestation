@@ -1,0 +1,2 @@
+# deforestation
+I n t his data analysis , extract ed some interesting data from world bank data on the topic of climate change F rom climate change its only focused on deforestation . F or deforestation taking two indicators: one is Forest area ” and another is Arable area and included some countries to observe country wise values of indicators. A ft er performing an EXTENSIVE ANALYSIS OF DATASETS , SOME INTERESTING FINDINGS ARE DISCUSSED BELOW
